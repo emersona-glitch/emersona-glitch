@@ -1,3 +1,5 @@
+## Hello :)
+
 > A flower falls, even though we love it; and a weed grows, even though we do not love it.
 > -- Eihei Dogen
 
